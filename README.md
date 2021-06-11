@@ -18,5 +18,7 @@ Routes availables of this API:
   - `/welcome` This is a route that return a welcome message
   
 `/registration` This is the route to register users
+
 `/login` This is the route to login that returns a token
+
 `/logout` This is the route to logout
